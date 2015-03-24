@@ -1,5 +1,7 @@
-Brickbreaker
+# Brickbreaker Mega
 
-Game created using HTML5 and JavaScript
+HTML5 and JavaScript for a brickbreaker game.
 
-Original code from gamkedo tutorial.
+Original code content from GameDev training for gamkedo.com
+
+Completed in 2015 for my 52 in '15 challenge at beemega.com
